@@ -1,4 +1,4 @@
-### Hi there 👋
+### Olá, bem vindo ao meu GIT 👋
 
 
 - 🔭 Atualmente estou trabalhando como Fullstack 
