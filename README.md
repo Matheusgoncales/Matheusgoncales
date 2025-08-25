@@ -1,8 +1,10 @@
 ### Olá, bem vindo ao meu GIT 👋
 
 
-- 🔭 Atualmente estou trabalhando como Fullstack 
-- 🌱 Estou aprendendo Javascrip para Front-end e PHP para Back-end
+Atualmente estou trabalhando como Fullstack Developer, utilizando Java no backend e Angular no frontend.
+Também estou me aprofundando nos estudos em Angular, além de já possuir conhecimento em JavaScript, HTML5 e CSS.
+
+Este espaço reúne meus projetos, aprendizados e experiências na área de desenvolvimento.
 - 📫 Contate-me: goncalesmatheus1@gmail.com
 
 <div>
